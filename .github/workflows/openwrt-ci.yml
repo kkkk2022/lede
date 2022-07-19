@@ -380,7 +380,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Simple_Obfs is not set
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_V2ray=y
           # CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Xray is not set
-          CONFIG_PACKAGE_luci-app-store=y
+          # CONFIG_PACKAGE_luci-app-store is not set
           CONFIG_PACKAGE_luci-app-udpxy=y
           CONFIG_PACKAGE_luci-app-uhttpd=y
           CONFIG_PACKAGE_luci-app-usb-printer=y
